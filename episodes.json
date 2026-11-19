@@ -16,6 +16,21 @@
    "published": {
     "es": "2026-09-30T17:00:00Z",
     "en": "2026-09-30T16:00:00Z"
+   },
+   "cover": "ep_everyday_basics_cafe",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/everyday_basics.en.json",
+     "sha": "ca5635d3c2fda78b93af96a574ed2f1f2fadc6bb",
+     "bytes": 2737220,
+     "count": 100
+    },
+    "es": {
+     "cards": "episodes/cards/everyday_basics.es.json",
+     "sha": "6993ccb59a9e7a6f0adc69710de3a1f1ec4b674a",
+     "bytes": 2737220,
+     "count": 100
+    }
    }
   },
   {
@@ -33,6 +48,21 @@
    "published": {
     "es": "2026-10-02T17:00:00Z",
     "en": "2026-10-02T16:00:00Z"
+   },
+   "cover": "ep_lost_passport_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/lost_passport.en.json",
+     "sha": "aea98a1d4f254279861a0491d5fcad86e9bb25cd",
+     "bytes": 2949709,
+     "count": 82
+    },
+    "es": {
+     "cards": "episodes/cards/lost_passport.es.json",
+     "sha": "a50fd86ce937dde4915171de741489ef91331a7d",
+     "bytes": 2949709,
+     "count": 82
+    }
    }
   },
   {
@@ -50,6 +80,21 @@
    "published": {
     "es": "2026-10-07T17:00:00Z",
     "en": "2026-10-07T16:00:00Z"
+   },
+   "cover": "ep_at_the_airport_lost_luggage",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/at_the_airport.en.json",
+     "sha": "db9c4f1d0df265d5252d454eca4d30ae8f648162",
+     "bytes": 2502325,
+     "count": 99
+    },
+    "es": {
+     "cards": "episodes/cards/at_the_airport.es.json",
+     "sha": "07dff3a113d17c4592a8328bd4f5b9f864e2829a",
+     "bytes": 2502325,
+     "count": 99
+    }
    }
   },
   {
@@ -67,6 +112,21 @@
    "published": {
     "es": "2026-10-09T17:00:00Z",
     "en": "2026-10-09T16:00:00Z"
+   },
+   "cover": "ep_toby_cancun_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/toby_cancun.en.json",
+     "sha": "e6faafed2e40ae8eb9b5f1a2c2d9efe2c2ed3357",
+     "bytes": 3159249,
+     "count": 80
+    },
+    "es": {
+     "cards": "episodes/cards/toby_cancun.es.json",
+     "sha": "f49429069e6a57873b7b8872a33389acd9d6d91b",
+     "bytes": 3159249,
+     "count": 80
+    }
    }
   },
   {
@@ -84,6 +144,21 @@
    "published": {
     "es": "2026-10-14T17:00:00Z",
     "en": "2026-10-14T16:00:00Z"
+   },
+   "cover": "ep_grandma_cancun_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/grandma_cancun.en.json",
+     "sha": "3695f503a5be7c2f7debf4727fed1414bd5a31a6",
+     "bytes": 3160907,
+     "count": 78
+    },
+    "es": {
+     "cards": "episodes/cards/grandma_cancun.es.json",
+     "sha": "86a1eed44a616f3ecdcb0f675b6e2a12a4916d70",
+     "bytes": 3160907,
+     "count": 78
+    }
    }
   },
   {
@@ -101,6 +176,21 @@
    "published": {
     "es": "2026-10-16T17:00:00Z",
     "en": "2026-10-16T16:00:00Z"
+   },
+   "cover": "ep_at_the_doctor_dentist",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/at_the_doctor.en.json",
+     "sha": "7452a9823637d25cfae75554939a66be6bf230df",
+     "bytes": 2482373,
+     "count": 100
+    },
+    "es": {
+     "cards": "episodes/cards/at_the_doctor.es.json",
+     "sha": "df25806cb92d18b20c591f16175c13c315e3f092",
+     "bytes": 2482373,
+     "count": 100
+    }
    }
   },
   {
@@ -118,6 +208,21 @@
    "published": {
     "es": "2026-10-21T17:00:00Z",
     "en": "2026-10-21T16:00:00Z"
+   },
+   "cover": "ep_carlos_date_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/carlos_date.en.json",
+     "sha": "bdf28621c6fc89ca54af75c6a8212499b0baf6bf",
+     "bytes": 2851578,
+     "count": 78
+    },
+    "es": {
+     "cards": "episodes/cards/carlos_date.es.json",
+     "sha": "c66da78cdcd70054d5607b140e4bf4291a4c5a98",
+     "bytes": 2851578,
+     "count": 78
+    }
    }
   },
   {
@@ -135,6 +240,21 @@
    "published": {
     "es": "2026-10-23T17:00:00Z",
     "en": "2026-10-23T16:00:00Z"
+   },
+   "cover": "ep_at_work_work_coffee",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/at_work.en.json",
+     "sha": "01cb9ef9ba2757e75467e583730704260e28ae75",
+     "bytes": 2669380,
+     "count": 100
+    },
+    "es": {
+     "cards": "episodes/cards/at_work.es.json",
+     "sha": "e1e4e21ee5eaa0440fea7b7fc8402a54c6ce44ec",
+     "bytes": 2669380,
+     "count": 100
+    }
    }
   },
   {
@@ -152,6 +272,21 @@
    "published": {
     "es": "2026-10-28T17:00:00Z",
     "en": "2026-10-28T16:00:00Z"
+   },
+   "cover": "ep_carlos_school_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/carlos_school.en.json",
+     "sha": "61e3271c2f5d8f7bdbb1ce86454db0d5b2aab8c4",
+     "bytes": 2748865,
+     "count": 75
+    },
+    "es": {
+     "cards": "episodes/cards/carlos_school.es.json",
+     "sha": "553a6a3f8fc2d7d00c361215004be2112f55e1fa",
+     "bytes": 2748865,
+     "count": 75
+    }
    }
   },
   {
@@ -169,6 +304,21 @@
    "published": {
     "es": "2026-10-30T17:00:00Z",
     "en": "2026-10-30T16:00:00Z"
+   },
+   "cover": "ep_family_and_home_home_lost_keys",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/family_and_home.en.json",
+     "sha": "c7d1750121505f155dfdec44248a54d831d1f543",
+     "bytes": 2572031,
+     "count": 100
+    },
+    "es": {
+     "cards": "episodes/cards/family_and_home.es.json",
+     "sha": "dcf7fd914d8770159ac5391d7161c61978f623be",
+     "bytes": 2572031,
+     "count": 100
+    }
    }
   },
   {
@@ -186,6 +336,21 @@
    "published": {
     "es": "2026-11-04T17:00:00Z",
     "en": "2026-11-04T16:00:00Z"
+   },
+   "cover": "ep_valeria_visit_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/valeria_visit.en.json",
+     "sha": "8d6de01150b1c34fb640dbe28791cc1ae03937fa",
+     "bytes": 3344058,
+     "count": 77
+    },
+    "es": {
+     "cards": "episodes/cards/valeria_visit.es.json",
+     "sha": "5dcb48fe1340f77d2b9f7e123020d0cbf0cd56a2",
+     "bytes": 3344058,
+     "count": 77
+    }
    }
   },
   {
@@ -203,6 +368,21 @@
    "published": {
     "es": "2026-11-06T17:00:00Z",
     "en": "2026-11-06T16:00:00Z"
+   },
+   "cover": "ep_weather_and_seasons_weather_beach",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/weather_and_seasons.en.json",
+     "sha": "3529e1630de22dbb46044a335005723a124b09e2",
+     "bytes": 2759150,
+     "count": 100
+    },
+    "es": {
+     "cards": "episodes/cards/weather_and_seasons.es.json",
+     "sha": "72b1ec7d416bc4f7f02569036fac848e5e929df7",
+     "bytes": 2759150,
+     "count": 100
+    }
    }
   },
   {
@@ -220,6 +400,21 @@
    "published": {
     "es": "2026-11-11T17:00:00Z",
     "en": "2026-11-11T16:00:00Z"
+   },
+   "cover": "ep_grandma_phone_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/grandma_phone.en.json",
+     "sha": "d2e48f5db29c3750d84911687904c559c7e15b38",
+     "bytes": 2768236,
+     "count": 72
+    },
+    "es": {
+     "cards": "episodes/cards/grandma_phone.es.json",
+     "sha": "34b9a8fc0e9c2e5d91454fbc8bf7ca6987c7185a",
+     "bytes": 2768236,
+     "count": 72
+    }
    }
   },
   {
@@ -237,6 +432,21 @@
    "published": {
     "es": "2026-11-18T17:00:00Z",
     "en": "2026-11-18T16:00:00Z"
+   },
+   "cover": "ep_mia_birthday_thumb",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/mia_birthday.en.json",
+     "sha": "dce5b52306dfc9f0ef6feb019dadefdbba4bb7e6",
+     "bytes": 2794698,
+     "count": 68
+    },
+    "es": {
+     "cards": "episodes/cards/mia_birthday.es.json",
+     "sha": "47f5a18be737d93cf2bc9ba6e16958738537f76b",
+     "bytes": 2794698,
+     "count": 68
+    }
    }
   },
   {
@@ -254,6 +464,21 @@
    "published": {
     "es": "2026-11-20T13:00:00Z",
     "en": "2026-11-20T16:00:00Z"
+   },
+   "cover": "ep_school_and_study_school_graduation",
+   "packs": {
+    "en": {
+     "cards": "episodes/cards/school_and_study.en.json",
+     "sha": "9c90e560f898012e05c86a9c1556421c99c1230e",
+     "bytes": 2850179,
+     "count": 100
+    },
+    "es": {
+     "cards": "episodes/cards/school_and_study.es.json",
+     "sha": "ef5c62c5e9242ead3645811b73205ed45ab323b6",
+     "bytes": 2850179,
+     "count": 100
+    }
    }
   }
  ]

@@ -1,0 +1,260 @@
+{
+ "version": 1,
+ "episodes": [
+  {
+   "id": "everyday_basics",
+   "kind": "dialogue",
+   "titles": {
+    "en": "10 Basic Spanish Conversations for Beginners",
+    "es": "10 Conversaciones Básicas en Inglés para Principiantes"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "sVJk1kPf6w8",
+    "en": "-zlmAgoTIGc"
+   },
+   "published": {
+    "es": "2026-09-30T17:00:00Z",
+    "en": "2026-09-30T16:00:00Z"
+   }
+  },
+  {
+   "id": "lost_passport",
+   "kind": "story",
+   "titles": {
+    "en": "Leo Lost His Passport at the Airport!",
+    "es": "¡Leo perdió su pasaporte en el aeropuerto!"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "LkFq3bqDqu4",
+    "en": "-nv5EohVLTE"
+   },
+   "published": {
+    "es": "2026-10-02T17:00:00Z",
+    "en": "2026-10-02T16:00:00Z"
+   }
+  },
+  {
+   "id": "at_the_airport",
+   "kind": "dialogue",
+   "titles": {
+    "en": "10 Short Spanish Conversations at the Airport",
+    "es": "10 Conversaciones Cortas en Inglés en el Aeropuerto"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "19TOG8Jfb7g",
+    "en": "2hUurDmItZ4"
+   },
+   "published": {
+    "es": "2026-10-07T17:00:00Z",
+    "en": "2026-10-07T16:00:00Z"
+   }
+  },
+  {
+   "id": "toby_cancun",
+   "kind": "story",
+   "titles": {
+    "en": "Toby Got Lost in Cancún!",
+    "es": "¡Toby se perdió en Cancún!"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "ohg_oBGOIiI",
+    "en": "Hv7cOQ2cNXo"
+   },
+   "published": {
+    "es": "2026-10-09T17:00:00Z",
+    "en": "2026-10-09T16:00:00Z"
+   }
+  },
+  {
+   "id": "grandma_cancun",
+   "kind": "story",
+   "titles": {
+    "en": "Who Is Dancing With Grandma?!",
+    "es": "¿Quién baila con la abuela?"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "LJZoWtxp3Lc",
+    "en": "CkfQty7dQjE"
+   },
+   "published": {
+    "es": "2026-10-14T17:00:00Z",
+    "en": "2026-10-14T16:00:00Z"
+   }
+  },
+  {
+   "id": "at_the_doctor",
+   "kind": "dialogue",
+   "titles": {
+    "en": "10 Short Spanish Conversations at the Doctor",
+    "es": "10 Conversaciones Cortas en Inglés con el Médico"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "ZWo2M3Hi3FI",
+    "en": "YaNxfZrlhws"
+   },
+   "published": {
+    "es": "2026-10-16T17:00:00Z",
+    "en": "2026-10-16T16:00:00Z"
+   }
+  },
+  {
+   "id": "carlos_date",
+   "kind": "story",
+   "titles": {
+    "en": "Leo Spied on Grandma's Date!",
+    "es": "¡Leo espía la cita de la abuela!"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "EyNW6-lJ04s",
+    "en": "mBBzTen3gyU"
+   },
+   "published": {
+    "es": "2026-10-21T17:00:00Z",
+    "en": "2026-10-21T16:00:00Z"
+   }
+  },
+  {
+   "id": "at_work",
+   "kind": "dialogue",
+   "titles": {
+    "en": "10 Easy Spanish Conversations at Work",
+    "es": "10 Conversaciones Fáciles en Inglés en el Trabajo"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "pxrHyNtVqg4",
+    "en": "E2pDQmctlOQ"
+   },
+   "published": {
+    "es": "2026-10-23T17:00:00Z",
+    "en": "2026-10-23T16:00:00Z"
+   }
+  },
+  {
+   "id": "carlos_school",
+   "kind": "story",
+   "titles": {
+    "en": "Leo Can't Dance!",
+    "es": "¡Leo no sabe bailar!"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "UkFRdc6GgYY",
+    "en": "bFveRswHbG0"
+   },
+   "published": {
+    "es": "2026-10-28T17:00:00Z",
+    "en": "2026-10-28T16:00:00Z"
+   }
+  },
+  {
+   "id": "family_and_home",
+   "kind": "dialogue",
+   "titles": {
+    "en": "10 Easy Spanish Conversations at Home",
+    "es": "10 Conversaciones Fáciles en Inglés en Casa"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "DpvuXc0rs8k",
+    "en": "ZMtIsXmsjhg"
+   },
+   "published": {
+    "es": "2026-10-30T17:00:00Z",
+    "en": "2026-10-30T16:00:00Z"
+   }
+  },
+  {
+   "id": "valeria_visit",
+   "kind": "story",
+   "titles": {
+    "en": "Carlos's Daughter Doesn't Like Grandma",
+    "es": "La hija de Carlos no quiere a la abuela"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "7zg5U8J5HyQ",
+    "en": "LSOiPAbKjW8"
+   },
+   "published": {
+    "es": "2026-11-04T17:00:00Z",
+    "en": "2026-11-04T16:00:00Z"
+   }
+  },
+  {
+   "id": "weather_and_seasons",
+   "kind": "dialogue",
+   "titles": {
+    "en": "10 Simple Spanish Conversations About the Weather",
+    "es": "10 Conversaciones Sencillas en Inglés sobre el Clima"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "hiDjNEL0PrM",
+    "en": "7zLuSP4zrGc"
+   },
+   "published": {
+    "es": "2026-11-06T17:00:00Z",
+    "en": "2026-11-06T16:00:00Z"
+   }
+  },
+  {
+   "id": "grandma_phone",
+   "kind": "story",
+   "titles": {
+    "en": "Grandma's First Smartphone",
+    "es": "El primer celular de la abuela"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "sgNQ4SuA2hg",
+    "en": "61UsRZA0aaM"
+   },
+   "published": {
+    "es": "2026-11-11T17:00:00Z",
+    "en": "2026-11-11T16:00:00Z"
+   }
+  },
+  {
+   "id": "mia_birthday",
+   "kind": "story",
+   "titles": {
+    "en": "Leo Forgot Mia's Birthday?!",
+    "es": "¿Leo olvidó el cumpleaños de Mia?"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "6gPZqXARoA0",
+    "en": "et5a9V5D91o"
+   },
+   "published": {
+    "es": "2026-11-18T17:00:00Z",
+    "en": "2026-11-18T16:00:00Z"
+   }
+  },
+  {
+   "id": "school_and_study",
+   "kind": "dialogue",
+   "titles": {
+    "en": "10 Simple Spanish Conversations About School and Study",
+    "es": "10 Conversaciones Sencillas en Inglés sobre la Escuela"
+   },
+   "level": "A1–A2",
+   "videos": {
+    "es": "ahhoT-2TSW8",
+    "en": "QHroqhJBh7w"
+   },
+   "published": {
+    "es": "2026-11-20T13:00:00Z",
+    "en": "2026-11-20T16:00:00Z"
+   }
+  }
+ ]
+}

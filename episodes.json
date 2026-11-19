@@ -20,15 +20,17 @@
    "cover": "ep_everyday_basics_cafe",
    "packs": {
     "en": {
-     "cards": "episodes/cards/everyday_basics.en.json",
-     "sha": "ca5635d3c2fda78b93af96a574ed2f1f2fadc6bb",
-     "bytes": 2737220,
+     "file": "episodes/packs/everyday_basics.en.aar",
+     "sha": "164a82209974310bf1349dce393afcd3a3745dac",
+     "file_sha": "cc063bb5739408d88bfd65464e6514896b4b7d29",
+     "bytes": 2562286,
      "count": 100
     },
     "es": {
-     "cards": "episodes/cards/everyday_basics.es.json",
-     "sha": "6993ccb59a9e7a6f0adc69710de3a1f1ec4b674a",
-     "bytes": 2737220,
+     "file": "episodes/packs/everyday_basics.es.aar",
+     "sha": "0cae3829be8d0a73a84ffa5a1f40bc1a416367fb",
+     "file_sha": "d1f43e648f25b0dd3c106dab063458351e423c5f",
+     "bytes": 2562697,
      "count": 100
     }
    }
@@ -52,15 +54,17 @@
    "cover": "ep_lost_passport_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/lost_passport.en.json",
-     "sha": "aea98a1d4f254279861a0491d5fcad86e9bb25cd",
-     "bytes": 2949709,
+     "file": "episodes/packs/lost_passport.en.aar",
+     "sha": "78673331ed1a9b9c781af9cb65f6f8b316117fa1",
+     "file_sha": "cd8e9259284c4d96f9eca52166b09038dc65673d",
+     "bytes": 2969273,
      "count": 82
     },
     "es": {
-     "cards": "episodes/cards/lost_passport.es.json",
-     "sha": "a50fd86ce937dde4915171de741489ef91331a7d",
-     "bytes": 2949709,
+     "file": "episodes/packs/lost_passport.es.aar",
+     "sha": "60977910abaff0278a22cd7af2a6748251302030",
+     "file_sha": "dd06806e4c8c80e8ba3bb0bbc9408c904147c263",
+     "bytes": 2969273,
      "count": 82
     }
    }
@@ -84,15 +88,17 @@
    "cover": "ep_at_the_airport_lost_luggage",
    "packs": {
     "en": {
-     "cards": "episodes/cards/at_the_airport.en.json",
-     "sha": "db9c4f1d0df265d5252d454eca4d30ae8f648162",
-     "bytes": 2502325,
+     "file": "episodes/packs/at_the_airport.en.aar",
+     "sha": "942ebb6e8f14d8fd0dba0e76f51dc7954bec44f4",
+     "file_sha": "945fd79ede1e4a9731f3b52b1fac19eb373158bc",
+     "bytes": 2333034,
      "count": 99
     },
     "es": {
-     "cards": "episodes/cards/at_the_airport.es.json",
-     "sha": "07dff3a113d17c4592a8328bd4f5b9f864e2829a",
-     "bytes": 2502325,
+     "file": "episodes/packs/at_the_airport.es.aar",
+     "sha": "84419b386de574d4985d3865bfc9b18cffa48f28",
+     "file_sha": "9484473bb1e03ce8672ca6c346abacd17c521f06",
+     "bytes": 2333022,
      "count": 99
     }
    }
@@ -116,15 +122,17 @@
    "cover": "ep_toby_cancun_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/toby_cancun.en.json",
-     "sha": "e6faafed2e40ae8eb9b5f1a2c2d9efe2c2ed3357",
-     "bytes": 3159249,
+     "file": "episodes/packs/toby_cancun.en.aar",
+     "sha": "63cfd6149e34cee18d932ea89487190c40b2921e",
+     "file_sha": "5961c47ff125ac90e41be3b4dea1a974a539ee98",
+     "bytes": 3178378,
      "count": 80
     },
     "es": {
-     "cards": "episodes/cards/toby_cancun.es.json",
-     "sha": "f49429069e6a57873b7b8872a33389acd9d6d91b",
-     "bytes": 3159249,
+     "file": "episodes/packs/toby_cancun.es.aar",
+     "sha": "9d82c4a8369de4c414e6726bc93d91a54af27229",
+     "file_sha": "d7eb1200670599b0c51490bf8fb715edb9a54a8a",
+     "bytes": 3178378,
      "count": 80
     }
    }
@@ -148,15 +156,17 @@
    "cover": "ep_grandma_cancun_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/grandma_cancun.en.json",
-     "sha": "3695f503a5be7c2f7debf4727fed1414bd5a31a6",
-     "bytes": 3160907,
+     "file": "episodes/packs/grandma_cancun.en.aar",
+     "sha": "50525fac6b27878d5fdd7617c452c9bb0b5e6d2e",
+     "file_sha": "36f886fe5c40c52288aecc367b435ffd73464f81",
+     "bytes": 3179243,
      "count": 78
     },
     "es": {
-     "cards": "episodes/cards/grandma_cancun.es.json",
-     "sha": "86a1eed44a616f3ecdcb0f675b6e2a12a4916d70",
-     "bytes": 3160907,
+     "file": "episodes/packs/grandma_cancun.es.aar",
+     "sha": "1a392fd44fa9babc1ebacfe6b5cb0bbab03db074",
+     "file_sha": "9b67b578017774b78372af8dbcb6d0e4794f3716",
+     "bytes": 3179243,
      "count": 78
     }
    }
@@ -180,15 +190,17 @@
    "cover": "ep_at_the_doctor_dentist",
    "packs": {
     "en": {
-     "cards": "episodes/cards/at_the_doctor.en.json",
-     "sha": "7452a9823637d25cfae75554939a66be6bf230df",
-     "bytes": 2482373,
+     "file": "episodes/packs/at_the_doctor.en.aar",
+     "sha": "23bd255d5e8e393e55acd224715c90340398ffbf",
+     "file_sha": "79c610dda33ebd1ab3d492ee6a2a9a0f8b51993a",
+     "bytes": 2301585,
      "count": 100
     },
     "es": {
-     "cards": "episodes/cards/at_the_doctor.es.json",
-     "sha": "df25806cb92d18b20c591f16175c13c315e3f092",
-     "bytes": 2482373,
+     "file": "episodes/packs/at_the_doctor.es.aar",
+     "sha": "59952981b2637534ba22416ed394f2d190fc4446",
+     "file_sha": "8e7a9bad169282ad0e20ff90ac0c003cd868ca9f",
+     "bytes": 2301628,
      "count": 100
     }
    }
@@ -212,15 +224,17 @@
    "cover": "ep_carlos_date_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/carlos_date.en.json",
-     "sha": "bdf28621c6fc89ca54af75c6a8212499b0baf6bf",
-     "bytes": 2851578,
+     "file": "episodes/packs/carlos_date.en.aar",
+     "sha": "edf28be7c593cf2441293ebf7289379e2342b236",
+     "file_sha": "f6d83c8a37e530091799608dddb471b7c8c569f6",
+     "bytes": 2869851,
      "count": 78
     },
     "es": {
-     "cards": "episodes/cards/carlos_date.es.json",
-     "sha": "c66da78cdcd70054d5607b140e4bf4291a4c5a98",
-     "bytes": 2851578,
+     "file": "episodes/packs/carlos_date.es.aar",
+     "sha": "a54a06b44b30fbf0571173a5ce9ec0611ba23d53",
+     "file_sha": "0f3be0e90792dc6a9a20d9d0be1955561f10ff37",
+     "bytes": 2869851,
      "count": 78
     }
    }
@@ -244,15 +258,17 @@
    "cover": "ep_at_work_work_coffee",
    "packs": {
     "en": {
-     "cards": "episodes/cards/at_work.en.json",
-     "sha": "01cb9ef9ba2757e75467e583730704260e28ae75",
-     "bytes": 2669380,
+     "file": "episodes/packs/at_work.en.aar",
+     "sha": "8d1ba6ddbb983a1e909ca75c0decb3394eb88f59",
+     "file_sha": "20401e07cbd82ac351a4cc415b4295a9cb76cb80",
+     "bytes": 2491639,
      "count": 100
     },
     "es": {
-     "cards": "episodes/cards/at_work.es.json",
-     "sha": "e1e4e21ee5eaa0440fea7b7fc8402a54c6ce44ec",
-     "bytes": 2669380,
+     "file": "episodes/packs/at_work.es.aar",
+     "sha": "6d46ee2d2ac5fa513f3125f2b995ae9064984a49",
+     "file_sha": "137a25dd7fc4d64d41218592442964c1c3b8f886",
+     "bytes": 2491506,
      "count": 100
     }
    }
@@ -276,15 +292,17 @@
    "cover": "ep_carlos_school_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/carlos_school.en.json",
-     "sha": "61e3271c2f5d8f7bdbb1ce86454db0d5b2aab8c4",
-     "bytes": 2748865,
+     "file": "episodes/packs/carlos_school.en.aar",
+     "sha": "61f085e734e00a0e8417ae4902399f7c92a2cc41",
+     "file_sha": "0d8f6e61dcc11cbc33a1d90f1b629e929aeeebae",
+     "bytes": 2766251,
      "count": 75
     },
     "es": {
-     "cards": "episodes/cards/carlos_school.es.json",
-     "sha": "553a6a3f8fc2d7d00c361215004be2112f55e1fa",
-     "bytes": 2748865,
+     "file": "episodes/packs/carlos_school.es.aar",
+     "sha": "91d009288add5e25026b1f8a991266d33ac11bf8",
+     "file_sha": "36b70981f59f9f33297dc9dc7971a74dff08711e",
+     "bytes": 2766251,
      "count": 75
     }
    }
@@ -308,15 +326,17 @@
    "cover": "ep_family_and_home_home_lost_keys",
    "packs": {
     "en": {
-     "cards": "episodes/cards/family_and_home.en.json",
-     "sha": "c7d1750121505f155dfdec44248a54d831d1f543",
-     "bytes": 2572031,
+     "file": "episodes/packs/family_and_home.en.aar",
+     "sha": "0748b4fd2b92fd006f83b58434ed916dc442e6dc",
+     "file_sha": "47d3337897f57ea9824c677354c510d8250baeab",
+     "bytes": 2401166,
      "count": 100
     },
     "es": {
-     "cards": "episodes/cards/family_and_home.es.json",
-     "sha": "dcf7fd914d8770159ac5391d7161c61978f623be",
-     "bytes": 2572031,
+     "file": "episodes/packs/family_and_home.es.aar",
+     "sha": "1a2b5f51e902c9917709a40ded47a3e96aff8d6f",
+     "file_sha": "4a36c1c344e4125f2854607415b00f330431a9c2",
+     "bytes": 2401230,
      "count": 100
     }
    }
@@ -340,15 +360,17 @@
    "cover": "ep_valeria_visit_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/valeria_visit.en.json",
-     "sha": "8d6de01150b1c34fb640dbe28791cc1ae03937fa",
-     "bytes": 3344058,
+     "file": "episodes/packs/valeria_visit.en.aar",
+     "sha": "0324a47c9bc26ba82b53422a492f6c3bb2219dbc",
+     "file_sha": "96e77c2fcdf6aa79213fa8875c84d5f46e7fb74e",
+     "bytes": 3361792,
      "count": 77
     },
     "es": {
-     "cards": "episodes/cards/valeria_visit.es.json",
-     "sha": "5dcb48fe1340f77d2b9f7e123020d0cbf0cd56a2",
-     "bytes": 3344058,
+     "file": "episodes/packs/valeria_visit.es.aar",
+     "sha": "8d3be94da6e31191a90e3ed13163d09291de1bfb",
+     "file_sha": "8f301a1c0719715387b74efca03410c2614e477e",
+     "bytes": 3361792,
      "count": 77
     }
    }
@@ -372,15 +394,17 @@
    "cover": "ep_weather_and_seasons_weather_beach",
    "packs": {
     "en": {
-     "cards": "episodes/cards/weather_and_seasons.en.json",
-     "sha": "3529e1630de22dbb46044a335005723a124b09e2",
-     "bytes": 2759150,
+     "file": "episodes/packs/weather_and_seasons.en.aar",
+     "sha": "2af5b7c85d5c3ff859eb61099d83f983bfab4c8f",
+     "file_sha": "fe32126bc183d881d4c3065ff7000443d6217578",
+     "bytes": 2584351,
      "count": 100
     },
     "es": {
-     "cards": "episodes/cards/weather_and_seasons.es.json",
-     "sha": "72b1ec7d416bc4f7f02569036fac848e5e929df7",
-     "bytes": 2759150,
+     "file": "episodes/packs/weather_and_seasons.es.aar",
+     "sha": "43ac28a07a6b9da280f106c715774ffe3b0d1018",
+     "file_sha": "842700189e04640527330728539ed01cdf243ff0",
+     "bytes": 2584316,
      "count": 100
     }
    }
@@ -404,15 +428,17 @@
    "cover": "ep_grandma_phone_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/grandma_phone.en.json",
-     "sha": "d2e48f5db29c3750d84911687904c559c7e15b38",
-     "bytes": 2768236,
+     "file": "episodes/packs/grandma_phone.en.aar",
+     "sha": "a16bdd911cfd8192f3cb77301f7f833f640cd90e",
+     "file_sha": "e3971f4300ab7b5a2c816fefb0186425fc661aad",
+     "bytes": 2785007,
      "count": 72
     },
     "es": {
-     "cards": "episodes/cards/grandma_phone.es.json",
-     "sha": "34b9a8fc0e9c2e5d91454fbc8bf7ca6987c7185a",
-     "bytes": 2768236,
+     "file": "episodes/packs/grandma_phone.es.aar",
+     "sha": "d21318768358b1dce5a5400e75e492db0414c642",
+     "file_sha": "e0e58bca14099c944883dfd16495e8317c08e740",
+     "bytes": 2785007,
      "count": 72
     }
    }
@@ -436,15 +462,17 @@
    "cover": "ep_mia_birthday_thumb",
    "packs": {
     "en": {
-     "cards": "episodes/cards/mia_birthday.en.json",
-     "sha": "dce5b52306dfc9f0ef6feb019dadefdbba4bb7e6",
-     "bytes": 2794698,
+     "file": "episodes/packs/mia_birthday.en.aar",
+     "sha": "3daadf1f8f80523fa614b3de532ee69aaefb1eaf",
+     "file_sha": "597eac4d780ac7260de6c9f1bd20c6005253137e",
+     "bytes": 2810428,
      "count": 68
     },
     "es": {
-     "cards": "episodes/cards/mia_birthday.es.json",
-     "sha": "47f5a18be737d93cf2bc9ba6e16958738537f76b",
-     "bytes": 2794698,
+     "file": "episodes/packs/mia_birthday.es.aar",
+     "sha": "462c458e86b1e9aca2f7e261d4f2928d1823dc0d",
+     "file_sha": "78f64f1e9ad4ee5c5b4808f2924d9e17f59607e8",
+     "bytes": 2810428,
      "count": 68
     }
    }
@@ -468,15 +496,17 @@
    "cover": "ep_school_and_study_school_graduation",
    "packs": {
     "en": {
-     "cards": "episodes/cards/school_and_study.en.json",
-     "sha": "9c90e560f898012e05c86a9c1556421c99c1230e",
-     "bytes": 2850179,
+     "file": "episodes/packs/school_and_study.en.aar",
+     "sha": "93a3da9586326a67b17e0711bda7eb1c0ab917e4",
+     "file_sha": "a6e37da1151ba243fd9fd674403b0e12eef95ee0",
+     "bytes": 2674021,
      "count": 100
     },
     "es": {
-     "cards": "episodes/cards/school_and_study.es.json",
-     "sha": "ef5c62c5e9242ead3645811b73205ed45ab323b6",
-     "bytes": 2850179,
+     "file": "episodes/packs/school_and_study.es.aar",
+     "sha": "18fb9e4091e8595ec8d66347aa99c525ca7d7458",
+     "file_sha": "20655f698e361d07bc0d1478677e09f39827f96e",
+     "bytes": 2673990,
      "count": 100
     }
    }
